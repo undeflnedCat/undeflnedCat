@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Node.js<br>🎯 Goals: Contribute to Python projects<br>🎲 Fun fact: I play Baldi's Basics Plus</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Node.js<br>🎯 Goals: Contribute to (or make my own) Python projects<br>🎲 Fun fact: I play Baldi's Basics Plus</p>
 
 ###
 
